@@ -1,0 +1,146 @@
+* {
+	de caja de tamaño : frontera-box;
+  font-family : Times New Roman;
+}
+
+.cuerpo {
+	margen :  0 px ;
+	font-weight : ;
+	font-family : Times New Roman;
+}
+
+.botón {
+	tamaño de fuente :  16 px ;
+	text-align: centro;
+	border-radius :  8 px ;
+	relleno :  10 px  20 px ;
+}
+
+.page-nav {
+	font-color : rosa pálido ;
+	border-color :  1 px negro sólido;
+	position : relativa;
+	text-align : centro;
+}
+
+.page-nav  h1 {
+	margen :  30 px ;
+}
+
+.button-checkout {
+	font-color: gris;
+	color : negro;
+	border-color :  rosa intenso sólido de 2 px ; /*Rosa*/
+	duración de la transición :  0,4 s ;
+	position : absoluta;
+	derecha :  15 px ;
+	abajo :  15 px ;
+}
+
+.button-checkout : hover {
+	color de fondo : rosa vivo; /*Rosa*/
+	color : blanco;
+}
+
+.page-content {
+	pantalla : flex;
+	borde :  púrpura sólido de 2 px ;
+	envoltura flexible : envoltura inversa;
+	text-align : izquierda;
+	justify-content : centro;
+}
+
+.producto-contenedor {
+	margin :  15 px ;
+	relleno :  2 px  16 px ;
+	posición : relativa;
+	caja-sombra :  0  4 px  8 px  0  rgba ( 0 ,  0 ,  0 ,  0.2 );
+	color de fondo : blanco;
+}
+
+.product-container : hover {
+	caja-sombra :  0  8 px  16 px  0  rgba ( 0 ,  0 ,  0 ,  0.2 );
+}
+
+.producto-contenedor  img {
+	ancho :  300 px ;
+}
+
+.product-container  h2 {
+	margen inferior :  10 px ;
+	margen izquierdo :  15 px ;
+}
+
+.button-add {
+	color de fondo : blanco;
+	color : negro;
+	border-color :  rosa intenso sólido de 2 px ; /*Rosa*/
+	duración de la transición :  0,4 s ;
+	posición : absoluta;
+	derecha :  15 px ;
+	abajo :  10 px ;
+}
+
+.button-add : hover {
+	color de fondo : rosa vivo; /*Rosa*/
+	color : blanco;
+}
+
+.main-header__title {
+	fondo : azul cielo ;
+    color :  # FFFCFF ;
+    relleno :  50 px ;
+    align-content : centro;
+    font-size :  2 em ;
+    margen :  10 px  0 ;
+    font-weight : negrita;
+    text-transform : mayúsculas;
+}
+
+ .ul {
+    alineación de texto : centro;
+  tipo de estilo de lista : ninguno;
+  border-color :  1 px negro sólido;
+  margen :  0 ;
+  acolchado :  0 ;
+ desbordamiento : oculto;
+color de fondo :  # 465362 ;
+}
+.li {
+  flotar : izquierda;
+  borde derecho : 1 px sólido # 000000 ;
+}
+.li  a {
+  screen : block;
+  color : blanco;
+  text-align : center;
+  relleno :  21 px  32 px ;
+  text-decoration : none;
+}
+.li  a : hover {
+  color de fondo :  # C52184 ;
+}
+
+.p {
+	font-family : Times New Roman;
+}
+
+.h1 {
+	color : morado;
+}
+
+.div campos {
+	width :  100 % ;
+	margin-lower :  20 px ;
+	text-align : center;
+}
+
+.seleccione {
+	margin-right :  10 px ;
+	ancho :  200 px ;
+	margen inferior :  20 px ;
+}
+
+.footer {
+	text-align : center;
+}
